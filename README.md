@@ -1,8 +1,8 @@
-﻿# Título del trabajo: Climt 3000 (Climatizador)
+﻿## Título del trabajo: Climt 3000 (Climatizador)
 
-Descripción breve del proyecto a realizar (2-3 frases).
+##Descripción breve del proyecto a realizar (2-3 frases).
 
-Regulador de temperatura en líquidos que otorga al usuario la capacidad de mantener la temperatura deseada por el mismo en dicho líquido.
+#Regulador de temperatura en líquidos que otorga al usuario la capacidad de mantener la temperatura deseada por el mismo en dicho líquido.
 
 ## Integrantes del equipo
 
