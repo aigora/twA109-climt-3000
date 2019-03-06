@@ -1,0 +1,3 @@
+## Sensores ha usar en Climt 3000.
+# Sensor de temperatura, tiene el fin de detectar la temperatura del líquido y mandar dicha información al ordenador.
+#Actuador (Permite incrementar la temperatura del líquido): Su función será incrementar la temperatura hasta la indicada por el usuario.
